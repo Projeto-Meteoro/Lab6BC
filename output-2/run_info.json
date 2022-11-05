@@ -1,0 +1,9 @@
+{
+	"n_targets": 205131,
+	"n_bootstraps": 100,
+	"n_processed": 48990434,
+	"kallisto_version": "0.43.0",
+	"index_version": 10,
+	"start_time": "Mon Oct 24 17:33:41 2022",
+	"call": "C:\Program Files\kallisto\kallisto.exe quant -i transcripts-2.idx -o output-2 -b 100 .\TCGA-DM-A288-01A_2-001.fastq .\TCGA-DM-A288-01A_1-002.fastq"
+}
